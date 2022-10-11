@@ -1,0 +1,1 @@
+import{j as s,e as a,u as n,o as c,c as _,k as l,l as m}from"./entry.8173ebb3.js";const y={__name:"index",async setup(p){let o,e;const t=([o,e]=s(()=>m("home",{version:"draft"})),o=await o,e(),o);return(u,k)=>{const r=a("StoryblokComponent");return n(t)?(c(),_(r,{key:0,blok:n(t).content},null,8,["blok"])):l("",!0)}}};export{y as default};
